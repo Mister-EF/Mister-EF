@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/Mister-EF">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mister-EF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mister-EF)](https://github.com/anuraghazra/github-readme-stats)
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mister-EF&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
