@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Mister-EF 🏴
+## Bem-vindo(a) ao perfil! 🏴
 
  <div>
    <a href="https://github.com/Mister-EF">
