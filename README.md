@@ -7,7 +7,7 @@
 
 ## Tech Stack
 
-<div style="display: inline-block"><br>
+<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
   <img align="center" alt="Python" height="30" width="40" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,7 +19,7 @@
 
 ---
 
-## Selected Projects
+## Public Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
