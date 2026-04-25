@@ -33,7 +33,7 @@
 
 ## Portfolio
 
-All projects are showcased at **[eric-fabiano.dev](https://github.com/Mister-EF)** — a bilingual (EN/PT-BR) portfolio with dark/light theming, stack filtering, and accessible project modals, built entirely with the frontend Holy Trinity.
+All projects are showcased at **[eric-fabiano.dev](https://mister-ef.github.io)** — a bilingual (EN/PT-BR) portfolio with dark/light theming, stack filtering, and accessible project modals, built entirely with the frontend Holy Trinity.
 
 ---
 
