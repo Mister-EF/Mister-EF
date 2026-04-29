@@ -16,8 +16,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **Data Architect** | Complex MySQL relational structures optimized for speed | MySQL |
-| **NoSQL Manager** | MongoDB-driven dashboard for dynamic content scaling | MongoDB, JavaScript |
+| **NoSQL Manager** | MongoDB-driven dashboard for dynamic content scaling | Python, Flask, MongoDB, JavaScript |
 | **Mario Side-Scroller** | Mario-themed side-scroller with Flappy Bird mechanics | HTML, CSS, JavaScript |
 | **Glassmorphism Dashboard** | Sophisticated UI with backdrop-filter and glass aesthetic | HTML, CSS, JavaScript |
 | **Virtual Drum Kit** | Keyboard-mapped drum kit with real-time visual feedback | HTML, CSS, JavaScript |
