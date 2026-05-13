@@ -1,5 +1,5 @@
 # Eric Fabiano — ERIC-FABIANO.DEV
-l
+lk
 ### Junior Full-Stack Developer
 *Crafting logic with Python, building the web with heart.*
 
