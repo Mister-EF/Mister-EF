@@ -45,4 +45,4 @@ All projects are showcased at **[eric-fabiano.dev](https://mister-ef.github.io)*
 
 ---
 
-*Currently looking for my first big opportunity — let's build something together.*
+*Currently looking for my first big opportunity — let's build something together.
