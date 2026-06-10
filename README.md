@@ -1,6 +1,6 @@
 # Eric Fabiano — ERIC-FABIANO.DEV
 
-### Junior Full-Stack Developer with a heart <3
+### Junior Full-Stack Developer
 *Crafting logic with Python, building the web with heart.*
 
 ---
