@@ -1,4 +1,4 @@
-# Eric Fabiano - Mister-EF
+# Eric Fabiano
 
 ### Junior Full-Stack Developer
 *Crafting logic with Python, building the web with heart.*
