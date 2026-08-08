@@ -1,7 +1,7 @@
 # Eric Fabiano
 
 ### Junior Full-Stack Developer
-*Crafting logic with Python, building the apps with heart.*
+*Crafting logic with Python, building apps with heart.*
 
 ---
 
